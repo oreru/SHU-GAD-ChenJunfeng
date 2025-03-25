@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="123">
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Triggers\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Switches\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\States\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\SoundBanks\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Queries\Factory Queries.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Queries\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Presets\Factory Spatial Audio.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Presets\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Modulators\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Mixing Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Metadata\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Game Parameters\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\GAD-proj.wproj" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\GAD-proj.Toe.wsettings" DateLow="1742869813" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Events\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Effects\Factory Effects.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Effects\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Conversion Settings\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Control Surface Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Audio Devices\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Attenuations\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\SHU-GAD-ChenJunfeng\GAD-proj\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Triggers\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
 	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Switches\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
