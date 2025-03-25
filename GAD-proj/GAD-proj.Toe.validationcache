@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="123">
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Triggers\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Switches\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\States\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\SoundBanks\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Queries\Factory Queries.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Queries\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Presets\Factory Spatial Audio.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Presets\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Modulators\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Mixing Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Metadata\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Game Parameters\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\GAD-proj.wproj" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\GAD-proj.Toe.wsettings" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Events\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Effects\Factory Effects.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Effects\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Conversion Settings\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Control Surface Sessions\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Audio Devices\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Attenuations\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+	<ValidationCacheItem File="D:\GameAudioDesign\GAD-proj\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1742869191" DateHigh="0"/>
+</ValidationCache>
