@@ -1,3 +1,3 @@
-Event	ID	Name			Wwise Object Path	Notes
-	4150247222	Play_VO_Female_WwiseSpatialAudio			\Default Work Unit\Play_VO_Female_WwiseSpatialAudio	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6159bb542c3daa5bef7edef4e9db205c46c56f529555e7b1239c79b19755f8be
+size 389

@@ -1,3 +1,3 @@
-Event	ID	Name			Wwise Object Path	Notes
-	3087908946	Play_Foley_Cloth_Texture			\Default Work Unit\Play_Foley_Cloth_Texture	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e70e0cc68036d721b8aec9dee2abaf9f591c41ada6f6ff696e6bcc3de55d226
+size 373
